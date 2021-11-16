@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a148bd1f-4e29-4b58-9cda-81a6fd1dc2ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/doannganh2021/doannganh2021/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/doannganh2021/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doannganh2021/shopapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/shopapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doannganh2021/shopapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/shopapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doannganh2021/shopapp/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/shopapp/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doannganh2021/shopapp/templates/admin/stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/shopapp/templates/admin/stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doannganh2021/shopapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/doannganh2021/shopapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20MYfzvMwLI1UeUx8CKljqitkBi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a148bd1f-4e29-4b58-9cda-81a6fd1dc2ea" name="Changes" comment="" />
+      <created>1635856034263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635856034263</updated>
+      <workItem from="1635856037459" duration="1066000" />
+      <workItem from="1635964191465" duration="605000" />
+      <workItem from="1636486752187" duration="168000" />
+      <workItem from="1636568633924" duration="1827000" />
+      <workItem from="1636570900019" duration="46000" />
+      <workItem from="1636585722963" duration="3942000" />
+      <workItem from="1636632139701" duration="2784000" />
+      <workItem from="1636717977163" duration="39000" />
+      <workItem from="1636718587455" duration="14963000" />
+      <workItem from="1636758488909" duration="603000" />
+      <workItem from="1636763818027" duration="3740000" />
+      <workItem from="1636830786174" duration="593000" />
+      <workItem from="1636837471362" duration="1219000" />
+      <workItem from="1636881074556" duration="7097000" />
+      <workItem from="1636898531594" duration="7534000" />
+      <workItem from="1636911743889" duration="6651000" />
+      <workItem from="1636964604383" duration="3329000" />
+      <workItem from="1636997157978" duration="1885000" />
+      <workItem from="1637046189838" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

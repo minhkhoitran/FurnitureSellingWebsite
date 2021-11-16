@@ -1,0 +1,15 @@
+{% extends 'admin/base_site.html' %}
+
+{% block content %}
+
+<h1>THỐNG KÊ THÔNG TIN SẢN PHẨM</h1>
+<h2>Số lượng sản phẩm: {{ sp_count }}</h2>
+<ul>
+    {% for c in sp_stats %}
+    <li>
+        <strong>{{ c.tenloaihang }}</strong> có {{ c.count }} sản phẩm
+    </li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
